@@ -5,6 +5,7 @@ Folder ini berisi rangkuman screenshot hasil tugas per fitur.
 Daftar screenshot yang perlu diambil (buka http://localhost:5173):
 
 1. `01-login.png` — Halaman login admin
+![alt text](image.png)
 2. `02-dashboard-grafik.png` — Dashboard: grafik pemasukan vs pengeluaran 1 tahun
 3. `03-report-bulanan.png` — Detail report pemasukan & pengeluaran bulan tertentu
 4. `04-penghuni-list.png` — Daftar penghuni
