@@ -147,14 +147,3 @@ php artisan migrate:fresh --seed
 ## Screenshot
 
 Rangkuman screenshot per fitur tersedia di [docs/screenshots/](docs/screenshots/).
-=======
-Langkah Backend:
-cp .env.example .env;
-php artisan key:generate;
-php artisan migrate;
-php artisan serve;
-
-Langkah Frontend:
-npm install;
-npm run dev (dengan konfigurasi proxy ke port Laravel).
->>>>>>> 6855545ee30a0d6af9de4b063f64e04886fe0cf5
